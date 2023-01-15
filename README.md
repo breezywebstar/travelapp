@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Alt text](travelapp/lib/images/seeafricaUI.png?raw=true "homescreen")
+![plot](./lib/images/seeafricaUI.png)
